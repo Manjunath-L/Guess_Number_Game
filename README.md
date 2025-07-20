@@ -1,5 +1,7 @@
 # Guess My Number Game 🎯
 
+🎮 **[Play the Game Live!](https://guess-number-game-five-plum.vercel.app/)** 🎮
+
 ## About the Project
 
 "Guess My Number" is an interactive number guessing game built with HTML, CSS, and JavaScript. It's a fun and engaging game that challenges players to guess a secret number between 1 and 20 while tracking their score and maintaining a high score record.
